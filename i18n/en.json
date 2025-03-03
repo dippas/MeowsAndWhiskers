@@ -1,0 +1,27 @@
+{
+  "about": {},
+  "home": {},
+  "testimonials": {},
+  "services": {},
+  "method": {},
+  "prices": {},
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "method": "Our Method",
+    "services": "Our Services",
+    "prices": "Prices",
+    "book": "Book a Service",
+    "testimonials": "Testimonials",
+    "blog": "Blog"
+  },
+  "routes": {
+    "about": "about",
+    "method": "method",
+    "services": "services",
+    "prices": "prices",
+    "book": "booking",
+    "testimonials": "testimonials",
+    "blog": "blog"
+  }
+}

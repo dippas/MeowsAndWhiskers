@@ -1,0 +1,30 @@
+{
+  "about": {},
+  "home": {
+    "title": "Título da página",
+    "slogan": "Slogan da página"
+  },
+  "testimonials": {},
+  "services": {},
+  "method": {},
+  "prices": {},
+  "links": {
+    "home": "Início",
+    "about": "Sobre",
+    "method": "Método",
+    "services": "Serviços",
+    "prices": "Preços",
+    "book": "Agendar",
+    "testimonials": "Depoimentos",
+    "blog": "Blog"
+  },
+  "routes": {
+    "about": "sobre",
+    "method": "metodo",
+    "services": "servicos",
+    "prices": "precos",
+    "book": "agendar",
+    "testimonials": "depoimentos",
+    "blog": "blog"
+  }
+}
